@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <h3>💻 Web Developer | Automation Enthusiast | Backend Specialist</h3>
+  <h3> Web Developer | Automation Enthusiast | Backend Specialist</h3>
   <p>Based in Belgium 🇧🇪</p>
   <p>
     Passionate about <b>backend development</b>, <b>automation</b> with n8n, and building <b>clean architectures</b>.
@@ -34,14 +34,14 @@
 
 <br />
 
-## 🚀 About Me
+##  About Me
 
 I am a dedicated developer focused on creating robust backend systems and automating complex workflows. My approach combines solid software engineering principles with modern tools to deliver efficient solutions.
 
-- 🔭 I’m currently working on **School Visitor Management System** & **Travel Agency Website**
-- 🌱 I’m currently learning **Advanced React Patterns**, **Cloud Deployment (Docker)**, and **AI-Driven Development**
-- 💬 Ask me about **PHP, Node.js, Automation (n8n), Clean Architecture**
-- ⚡ Fun fact: I love turning coffee into code and repetitive tasks into automated scripts!
+-  I’m currently working on **School Visitor Management System** & **Travel Agency Website**
+-  I’m currently learning **Advanced React Patterns**, **Cloud Deployment (Docker)**, and **AI-Driven Development**
+-  Ask me about **PHP, Node.js, Automation (n8n), Clean Architecture**
+-  Fun fact: I love turning coffee into code and repetitive tasks into automated scripts!
 
 <br />
 
@@ -49,9 +49,9 @@ I am a dedicated developer focused on creating robust backend systems and automa
 
 <br />
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
-### 🌐 Frontend Development
+###  Frontend Development
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -61,7 +61,7 @@ I am a dedicated developer focused on creating robust backend systems and automa
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### ⚙️ Backend & Database
+###  Backend & Database
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -77,7 +77,7 @@ I am a dedicated developer focused on creating robust backend systems and automa
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-### 🔄 DevOps & Automation
+###  DevOps & Automation
 
 <p align="left">
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -90,33 +90,9 @@ I am a dedicated developer focused on creating robust backend systems and automa
 
 ---
 
-<br />
 
-## 📌 Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **School Visitor Management** | Automated visitor tracking and reporting system, enhancing security and efficiency for schools. | `JS` `Node.js` `Automation` |
-| **PHP Mini-Projects** | A collection of database-driven applications (CMS, table-based apps) built with PHP 8, OOP, and MVC principles. | `PHP` `MVC` `MySQL` |
-| **Travel Agency Website** | 🚧 *In Progress* - A responsive platform integrating frontend design with robust backend logic. | `HTML` `CSS` `JS` `Backend` |
-| **Automation Workflows** | Custom n8n workflows designed to automate repetitive tasks and integrate various APIs. | `n8n` `APIs` `Integromat` |
 
-<br />
-
----
-
-<br />
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoulaimanDev&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Soulaiman's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulaimanDev&theme=gotham&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" />
-</p>
-
-<br />
-
----
 
 <div align="center">
   <p>Made with ❤️ and automation by Soulaiman</p>
