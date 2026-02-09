@@ -1,13 +1,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Soulaiman!&fontSize=70&fontColor=fff" alt="Soulaiman Header" width="100%"/>
 </div>
+
 <div align="center">
   <h3>💻 Web Developer | Automation Enthusiast | Backend Specialist</h3>
   <p>Based in Belgium 🇧🇪</p>
   <p>
     Passionate about <b>backend development</b>, <b>automation</b> with n8n, and building <b>clean architectures</b>.
   </p>
+
   <br />
+
   <p align="center">
     <a href="mailto:chair.soulaiman.map@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -20,15 +23,22 @@
     </a>
   </p>
 </div>
+
 ---
+
 ## 🚀 About Me
+
 I am a dedicated developer focused on creating robust backend systems and automating complex workflows. My approach combines solid software engineering principles with modern tools to deliver efficient solutions.
+
 - 🔭 I’m currently working on **School Visitor Management System** & **Travel Agency Website**
 - 🌱 I’m currently learning **Advanced React Patterns**, **Cloud Deployment (Docker)**, and **AI-Driven Development**
 - 💬 Ask me about **PHP, Node.js, Automation (n8n), Clean Architecture**
 - ⚡ Fun fact: I love turning coffee into code and repetitive tasks into automated scripts!
+
 ---
+
 ## 🛠️ Languages and Tools
+
 ### 🌐 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -37,6 +47,7 @@ I am a dedicated developer focused on creating robust backend systems and automa
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
+
 ### ⚙️ Backend & Database
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -51,6 +62,7 @@ I am a dedicated developer focused on creating robust backend systems and automa
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
+
 ### 🔄 DevOps & Automation
 <p>
   <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
@@ -58,21 +70,29 @@ I am a dedicated developer focused on creating robust backend systems and automa
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
 </p>
+
 ---
+
 ## 📌 Featured Projects
+
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **School Visitor Management** | Automated visitor tracking and reporting system, enhancing security and efficiency for schools. | `JS` `Node.js` `Automation` |
 | **PHP Mini-Projects** | A collection of database-driven applications (CMS, table-based apps) built with PHP 8, OOP, and MVC principles. | `PHP` `MVC` `MySQL` |
 | **Travel Agency Website** | 🚧 *In Progress* - A responsive platform integrating frontend design with robust backend logic. | `HTML` `CSS` `JS` `Backend` |
 | **Automation Workflows** | Custom n8n workflows designed to automate repetitive tasks and integrate various APIs. | `n8n` `APIs` `Integromat` |
+
 ---
+
 ## 📈 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SoulaimanDev&show_icons=true&theme=gotham&hide_border=true" alt="Soulaiman's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulaimanDev&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
 </p>
+
 ---
+
 <div align="center">
   <p>Made with ❤️ and automation by Soulaiman</p>
 </div>
