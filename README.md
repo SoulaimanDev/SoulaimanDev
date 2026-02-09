@@ -1,7 +1,3 @@
-
-README.md
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Soulaiman!&fontSize=70&fontColor=fff" alt="Soulaiman Header" width="100%"/>
 </div>
@@ -11,7 +7,7 @@ README.md
   <p>
     Passionate about <b>backend development</b>, <b>automation</b> with n8n, and building <b>clean architectures</b>.
   </p>
-  ---
+  <br />
   <p align="center">
     <a href="mailto:chair.soulaiman.map@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
